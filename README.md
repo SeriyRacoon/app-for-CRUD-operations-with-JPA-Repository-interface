@@ -1,1 +1,1 @@
-# app-for-CRUD-operations-with-JPA-Repository-interface
+This test application used for CRUD operations with abstarct employees using JPA Repository interface.
